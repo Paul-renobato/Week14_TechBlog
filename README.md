@@ -23,4 +23,4 @@ MIT
 GitHub: https://github.com/Paul-renobato
 Email: Paul.renobato@gmail.com
 
-<img src= "Screenshot (31).png"> 
+<img src= "images/Screenshot (31).png"> 
