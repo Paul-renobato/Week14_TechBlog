@@ -4,3 +4,10 @@
     <h2>Welcome Back, {{name}}</h2>
   </div>
 </div>
+<ol class="post-list">
+    {{#each posts as |post|}}
+    <li>
+        {{> post-info-homepage post}}
+    </li>
+    {{/each}}
+</ol>
